@@ -1,0 +1,13 @@
+My First Chrome Extension!
+
+Simplest Chrome Extension:
+http://stackoverflow.com/questions/14801349/ultra-simple-chrome-extension-doesnt-addeventlistener-to-button-onclick-event
+
+To get the current tab URL:
+http://stackoverflow.com/questions/1979583/how-can-i-get-the-url-for-a-google-chrome-tab
+
+Slightly more complicated:
+http://www.sitepoint.com/create-chrome-extension-10-minutes-flat/
+
+Shortcut to chrome extension control:
+chrome://extensions
